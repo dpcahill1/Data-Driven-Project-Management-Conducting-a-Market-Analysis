@@ -1,1 +1,2 @@
 # Data-Driven-Project-Management-Conducting-a-Market-Analysis
+Working as a product manager for a fitness studio, I was tasked with the job to understand the current demand for digital fitness classes. I conducted a market analysis in Python to guage demand and identify potential areas for growth of digital products and services. Python packages like 'pandas' and 'matplotlib' were employed to conduct the analysis and visualize the data.
